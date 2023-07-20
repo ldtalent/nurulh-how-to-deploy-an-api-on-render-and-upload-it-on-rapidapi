@@ -21,3 +21,6 @@ To test for the API to run locally, a few requirements are needed:
 7. Open your browser and enter localhost:5500
    - You should be able to see a welcome message
    - To check the about.js page, add /about to the url like this: localhost:5500/about
+
+# Blog
+Check out our article for more details!
